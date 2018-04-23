@@ -167,88 +167,6 @@ Tatara,CNHV-M - P-11 Clone
 Tatara,NEU-UD - REAKTION
 Tatara,NQ-M6W - Bodyalik's Kastrulko
 Tatara,OW-QXW - SIA
-Astrahus,EZWQ-X - NAZGUL TAVERN
-Astrahus,EZWQ-X - Бар "У пожилого краба"
-Astrahus,N-I024 - Astra
-Astrahus,UC-8XF - Тортуга
-Astrahus,UNV-3J - Курень
-Astrahus,VE-W7O - clone me gently
-Athanor,2EV-BA - min1
-Athanor,2EV-BA - min2
-Athanor,2EV-BA - min3
-Athanor,2ULC-J - Fishing
-Athanor,2ULC-J - NAZGUL MOON
-Athanor,80G-H5 - Type3
-Athanor,80G-H5 - TYPE9
-Athanor,90-A1P - ARK1
-Athanor,90-A1P - ARK2
-Athanor,90-A1P - GNE1
-Athanor,90-A1P - GNE2
-Athanor,90-A1P - GNE3
-Athanor,90-A1P - REACTOR
-Athanor,90-A1P - REFINERY
-Athanor,9S-GPT - min1
-Athanor,CNHV-M - P-12 Ref Ice-60 Ore-58
-Athanor,CNHV-M - P-13 Reaction
-Athanor,CNHV-M - P-14
-Athanor,D-JVGJ - min1
-Athanor,EZWQ-X - Luna
-Athanor,EZWQ-X - NAZGUL REFINE
-Athanor,I0N-BM - Moon 8-3
-Athanor,J4AQ-O - min1
-Athanor,J7X-VN - TYPE10
-Athanor,J7X-VN - TYPE11
-Athanor,J7X-VN - TYPE9
-Athanor,JUE-DX - Type9
-Athanor,NQ-M6W - Remotin Forever
-Athanor,QG3-Z0 - xxx
-Athanor,QHH-13 - min1
-Athanor,RT64-C - Type2
-Athanor,SN-DZ6 - Moon 5-1
-Athanor,SN-Q1T - TYPE1
-Athanor,SN-Q1T - TYPE2
-Athanor,T0DT-T - fantasy is over
-Athanor,T0DT-T - Spice must flow
-Athanor,UAJ5-K - min1
-Athanor,UC-8XF - ARK
-Athanor,UC-8XF - Home
-Athanor,U-FQ21 - EIsschmalzer
-Athanor,VE-W7O - Grey Skull's Power
-Athanor,W9-TFD - min1
-Athanor,W9-TFD - min2
-Athanor,W9-TFD - min3
-Athanor,W9-TFD - min4
-Athanor,WIO-OL - min1
-Athanor,WIO-OL - TYPE
-Athanor,YC-ANK - Type7
-Athanor,YQM-P1 - min1
-Athanor,YQM-P1 - min2
-Athanor,YQM-P1 - min3
-Athanor,ZJ-5IS - min1
-Azbel,8-AA98 - SF KomPlex
-Azbel,90-A1P - Ind
-Azbel,CNHV-M - P-20
-Azbel,EZWQ-X - NAZGUL
-Azbel,I0N-BM - MRG Research
-Fortizar,2-84WC - Palazzo Spodumain Resort
-Fortizar,7F-2FB - "Фортизар"
-Fortizar,NQ-M6W - Geplew's Obelisk
-Fortizar,RQNF-9 - Last Frontier
-Fortizar,T0DT-T - Fortizar
-Keepstar,GA58-7 - SF. Да будет свет!
-Raitaru,90-A1P - INDUSTRY
-Raitaru,90-A1P - University
-Raitaru,CNHV-M - P-2 Lab TE ME Inv
-Raitaru,CNHV-M - P-3 Ind T2-Med T2-Comp
-Raitaru,NQ-M6W - LAB X18
-Raitaru,T0DT-T - hostel XutoroK
-Raitaru,U-FQ21 - Keepstar
-Raitaru,UNV-3J - НАНУ
-Raitaru,UNV-3J - Цех
-Sotiyo,EZWQ-X - NAZGUL SOTIYO
-Sotiyo,U-FQ21 - I am Gr0Ot RIP
-Tatara,CNHV-M - P-11 Clone
-Tatara,NQ-M6W - Bodyalik's Kastrulko
 Astrahus,1-BK1Q - Keepstar 1
 Astrahus,1-BK1Q - Keepstar 1-1
 Astrahus,1-BK1Q - Keepstar 1-2
@@ -373,7 +291,7 @@ Fortizar,KED-2O - GATE KEEPER
 Fortizar,KH-EWC - M-R-G Trade
 Fortizar,LA2-KV - Trade & Sale
 Fortizar,RJBC-I - No Carebears allowed
-Fortizar,S7WI-F -     Fort 85
+Fortizar,S7WI-F - Fort 85
 Fortizar,UGR-J2 - THE DEAD RABBIT
 Fortizar,U-RELP - Present your pass
 Fortizar,X-CYNC - Wo Elven Helfen
@@ -408,7 +326,7 @@ Raitaru,QYT-X8 - Crips
 Raitaru,RJBC-I - R&D
 Raitaru,SON-TW - VitC - Raitaru 1
 Raitaru,WW-OVQ - Carebears Heaven
-Raitaru,X-CYNC - Dönerbude  :))
+Raitaru,X-CYNC - Dönerbude :))
 Raitaru,X-CYNC - RAC
 Raitaru,Y-770C - Shadow
 Sotiyo,1-BK1Q - Yamato
@@ -418,181 +336,20 @@ Tatara,KED-2O - Crazy Frog
 Tatara,KH-EWC - M-R-G Refinary Moon 5-2
 Tatara,M-NWLB - Tatarin
 Tatara,X-CYNC - DyCoCO2V
-Astrahus,1-BK1Q - Keepstar 1
-Astrahus,1-BK1Q - Keepstar 1-1
-Astrahus,1-BK1Q - Keepstar 1-2
-Astrahus,1-BK1Q - Keepstar 1-3
-Astrahus,1-BK1Q - Keepstar 2
-Astrahus,1-BK1Q - Keepstar 2-1
-Astrahus,1-BK1Q - Keepstar 2-2
-Astrahus,1-BK1Q - Keepstar 2-3
-Astrahus,1-BK1Q - Keepstar 5
-Astrahus,1-BK1Q - Keepstar 6
-Astrahus,1-BK1Q - Sapporo
-Astrahus,1-BK1Q - SOT02
-Astrahus,1-BK1Q - SOT03
-Astrahus,1-BK1Q - SOT04
-Astrahus,1-BK1Q - SOT05
-Astrahus,1-BK1Q - SOT06
-Astrahus,1-BK1Q - SOT07
-Astrahus,1-BK1Q - SOT08
-Astrahus,1-BK1Q - SOT09
-Astrahus,1-BK1Q - SOT1
-Astrahus,1-BK1Q - SOT10
-Astrahus,1-BK1Q - Sotiyo 2-2
-Astrahus,1-BK1Q - Sotiyo 2-3
-Astrahus,21M1-B - Я тучка.
-Astrahus,83-YGI - Home Away From Home
-Astrahus,91-KD8 - Poligon
-Astrahus,Aphi - Nova WW-OVQ
-Astrahus,B-ETDW - Qwerty
 Astrahus,F-816R - YxoguM oropogaMu
-Astrahus,GTQ-C9 - BFL Depot
-Astrahus,IAMJ-Q - Big Mama
 Astrahus,IO-R2S - Clone Soldier Base
-Astrahus,KED-2O - 911
 Astrahus,QY2Y-N - Nobody's here
-Astrahus,QYT-X8 - ZASTAVA
-Astrahus,QZ-DIZ - ASTRA
-Astrahus,RJBC-I - Lookout Tower
-Astrahus,RJBC-I - Newbro House
-Astrahus,S7WI-F - 10 secure
-Astrahus,S7WI-F - 11 secure
-Astrahus,S7WI-F - 12 secure
-Astrahus,S7WI-F - 1 secure
-Astrahus,S7WI-F - 2 secure
-Astrahus,S7WI-F - 3 secure
-Astrahus,S7WI-F - 4 secure
-Astrahus,S7WI-F - 6 secure
-Astrahus,S7WI-F - 7 secure
-Astrahus,S7WI-F - 8 secure
-Astrahus,S7WI-F - 9 secure
-Astrahus,S7WI-F - Russia's greatest love machine
 Astrahus,SON-TW - PVE
-Astrahus,T-HMWP - ~+**+~
-Astrahus,U9SE-N - AntiSocial Sanctum
-Astrahus,UGR-J2 - Pussy
 Astrahus,XEF6-Z - FREE DOCK +
-Astrahus,XEF6-Z - No PVP Allowed
-Astrahus,XM-RMD - Everest
 Astrahus,XXZ-3W - Palace vagrants
-Astrahus,Y-0HVF - China town
-Astrahus,Y-0HVF - I See You
-Athanor,0PU2-R - Kloc-Kloc
-Athanor,1-BK1Q - CHE-Fidel-22
-Athanor,1-BK1Q - Darell's Opera House
-Athanor,1-BK1Q - Drone Raffinery
-Athanor,1-BK1Q - NCT-22
-Athanor,2-WNTD - Moon 2
-Athanor,3VL6-I - CoverSabreHaveInDock
-Athanor,3VL6-I - GreenLand
-Athanor,3VL6-I - Shabane
-Athanor,91-KD8 - ParrotHouse
-Athanor,91-KD8 - Sonata
-Athanor,9G5J-1 - Bum-Bum
-Athanor,BQ0-UU - Count
-Athanor,DGDT-3 - Moon 01
-Athanor,G-W1ND - moonmine1
-Athanor,G-W1ND - moonmine2
-Athanor,G-W1ND - moonmine3
-Athanor,G-W1ND - moonmine4
-Athanor,G-W1ND - moonmine5
-Athanor,G-W1ND - REFINE
-Athanor,J-D5U7 - Cucek HET
-Athanor,LA2-KV - CO2CaCo
-Athanor,LA2-KV - CO2CdCSiO2
-Athanor,LA2-KV - CrKCISiCO2
-Athanor,LA2-KV - KCIHgW
-Athanor,QB-AE6 - moonmine6
-Athanor,QB-AE6 - moonmine7
-Athanor,QB-AE6 - moonmine8
-Athanor,S7WI-F - ScCoKCI
-Athanor,SON-TW - VI-13 -The Hamusta Great Greed
-Athanor,SON-TW - VitC VII-8
-Athanor,WW-OVQ - Afterlife
-Athanor,WW-OVQ - Crematorio Juan Carlos I
-Athanor,WW-OVQ - MOGs Eispallast
-Athanor,X-CYNC - CH4
-Athanor,X-CYNC - CO2SiO2
-Athanor,X-CYNC - CoKCIPt
-Athanor,X-CYNC - KCICH4
-Athanor,X-CYNC - Reff Reff
-Athanor,X-CYNC - TiCoKCI
-Athanor,XKM-DE - VitC - X-25
-Athanor,XKM-DE - VitC - XI-3
-Athanor,XM-RMD - Mamont reporting
 Athanor,XXZ-3W - uncle Kanes II
 Athanor,XXZ-3W - uncle Kanes III
-Athanor,Y-0HVF - BuHTuK
-Athanor,Y-0HVF - Circle
-Athanor,Y-0HVF - LIInul
-Athanor,Y-0HVF - LLII7yHTuK
-Athanor,Y-0HVF - Spark
-Athanor,Y-770C - Dirt
-Athanor,Y-770C - PRIME CYNO DROP
-Azbel,1-BK1Q - Osaka
 Azbel,7-UVMT - AZbelka
-Azbel,91-KD8 - Cafe 36ly from Jita
-Azbel,RJBC-I - Capital Building
-Azbel,WW-OVQ - Foghaus
-Azbel,X-CYNC - CP/C/DR
-Fortizar,1-BK1Q - Shiro
-Fortizar,21M1-B - Free Hole
-Fortizar,83-YGI - Lucifer
-Fortizar,IAMJ-Q - Canopus
-Fortizar,KED-2O - GATE KEEPER
-Fortizar,KH-EWC - M-R-G Trade
-Fortizar,LA2-KV - Trade & Sale
-Fortizar,RJBC-I - No Carebears allowed
-Fortizar,S7WI-F -     Fort 85
-Fortizar,UGR-J2 - THE DEAD RABBIT
-Fortizar,U-RELP - Present your pass
 Fortizar,X-9ZZR - Aprilius One
-Fortizar,X-CYNC - Wo Elven Helfen
-Fortizar,Y-0HVF - Casino Vulkan
-Fortizar,Y-0HVF - Watch Tower
-Fortizar,Y-770C - DarK NooB
-Keepstar,1-BK1Q - Kyodai
-Keepstar,S7WI-F - Flying Pinata
-Raitaru,1-BK1Q - Drone Hive I
-Raitaru,1-BK1Q - Drone Hive II
-Raitaru,1-BK1Q - Nagoya
-Raitaru,2-WNTD - ♠ Hammer
-Raitaru,5-IH57 - DoM
-Raitaru,5-IH57 - The Medellin
-Raitaru,DGDT-3 - Mark II
 Raitaru,DYS-CG - travelers spot
-Raitaru,GGMF-J - Hideout
-Raitaru,GTQ-C9 - The Qwerty
-Raitaru,G-W1ND - SOME
-Raitaru,G-W1ND - Weyland office
-Raitaru,KED-2O - Advanced Component Manufacturing
-Raitaru,KED-2O - Ammunition Manufacturing
-Raitaru,KED-2O - Capital Component
-Raitaru,KED-2O - Drone and Fighter
-Raitaru,KED-2O - Equipment Manufacturing
-Raitaru,KED-2O - Structure
-Raitaru,KH-EWC - M-R-G
-Raitaru,M-NWLB - House in the village
-Raitaru,MZLW-9 - Crab's House
-Raitaru,MZLW-9 - WEYLAND office
 Raitaru,ND-X7X - Blue Ice Recruiting
-Raitaru,QYT-X8 - Crips
-Raitaru,RJBC-I - R&D
 Raitaru,RO-AIQ - Home
-Raitaru,SON-TW - VitC - Raitaru 1
-Raitaru,WW-OVQ - Carebears Heaven
-Raitaru,X-CYNC - Dönerbude  :))
-Raitaru,X-CYNC - RAC
 Raitaru,XXZ-3W - Damn Guard
-Raitaru,Y-770C - Shadow
-Sotiyo,1-BK1Q - Yamato
-Sotiyo,KED-2O - Интермышь
-Tatara,91-KD8 - 222
-Tatara,KED-2O - Crazy Frog
-Tatara,KH-EWC - M-R-G Refinary Moon 5-2
-Tatara,M-NWLB - Tatarin
-Tatara,X-CYNC - DyCoCO2V
 Astrahus,1ACJ-6 - Fyrsta Stokk
 Astrahus,3IK-7O - Small helper
 Astrahus,9F-3CR - post11
@@ -648,57 +405,20 @@ Raitaru,D-IZT9 - the Workshop
 Raitaru,F9-FUV - mining pearl
 Raitaru,L-ZJLN - Lugus Workshop
 Raitaru,MF-PGF - Zzzz
-Astrahus,1ACJ-6 - Fyrsta Stokk
-Astrahus,3IK-7O - Small helper
-Astrahus,9F-3CR - post11
-Astrahus,9P-870 - xxx
-Astrahus,BNX-AS - new casino
-Astrahus,BY-7PY - Half way house
-Astrahus,C-4D0W - Fork Of Two Worlds
-Astrahus,C-V6DQ - babbler
-Astrahus,EX-GBT - Hello dolly
-Astrahus,G-QTSD - Astrakemp
-Astrahus,HV-EAP - One half
 Astrahus,I64-XB - MoonBase
-Astrahus,IS-OBW - U2NG Two
-Astrahus,KGT3-6 - Digi Digi
-Astrahus,LXQ2-T - Deep Space 1
-Astrahus,LXQ2-T - floaty space thing
-Astrahus,LXQ2-T - Home
-Astrahus,LXQ2-T - HOUSE OF HORROR
-Astrahus,LXQ2-T - Jump Point Zeta
-Astrahus,LXQ2-T - Stop Over
-Astrahus,L-ZJLN - Lugus Launchpad
-Astrahus,NWX-LI - quiet
-Astrahus,PX-IHN - Px a Hut
-Astrahus,QBZO-R - Common rail
 Astrahus,R-6KYM - Grind Wars Reloaded
-Astrahus,SAH-AD - simple
-Astrahus,TZ-74M - BSIT TWO
 Astrahus,Z-DRIY - Hydra
 Astrahus,Z-FET0 - Tortuga
 Athanor,1ACJ-6 - MORDOR
 Athanor,1ACJ-6 - Rivendell
 Athanor,3H58-R - MoonMatGenerator
 Athanor,4LJ6-Q - Mining Outpost
-Athanor,89-JPE - Juliet Alpha
 Athanor,BNX-AS - Protezzz 3
-Athanor,D-IZT9 - IRC 1
 Athanor,FB-MPY - ZAMOK
-Athanor,GN-TNT - AU2
 Athanor,IRD-HU - ZAMOK
 Athanor,IRD-HU - ZAMOK light
-Athanor,IS-OBW - Foxtrot Lima
 Athanor,KMH-J1 - 12334
 Athanor,L-ZJLN - New Eden Hall
-Athanor,N06Z-Q - Moon Project-Alfa
-Athanor,N06Z-Q - Moon Project-Alfa-2
-Athanor,N06Z-Q - Moon Project-Beta
-Athanor,N06Z-Q - Moon Project-Beta-2
-Athanor,N06Z-Q - Moon Project Beta-3
-Athanor,NK-VTL - Moon Project-Alpha
-Athanor,NK-VTL - Moon Project Beta
-Athanor,NK-VTL - Moon Project Beta-2
 Athanor,QNXJ-M - Customs Office
 Athanor,R-6KYM - Kohlewerk
 Athanor,R-6KYM - Salzwerk
@@ -707,27 +427,10 @@ Athanor,RO-0PZ - 003
 Athanor,RO-0PZ - a001
 Athanor,T-IDGH - ZAMOK A
 Athanor,V-OL61 - ZAMOK
-Athanor,YX-0KH - Moon Project Beta
-Azbel,F9-FUV - Big Foot
-Azbel,T-IDGH - Larek
 Fortizar,1ACJ-6 - SETA
-Fortizar,89-JPE - Pirates Cove
-Fortizar,BNX-AS - StarHouse
-Fortizar,F69O-M - Bordel
-Fortizar,LXQ2-T - UNPROFOR
-Fortizar,L-ZJLN - Lugus Treehouse
 Fortizar,RO-0PZ - Fatal Error
-Keepstar,D-IZT9 - Above and Beyond
 Raitaru,1ACJ-6 - RaSatan's Lair
 Raitaru,1H5-3W - Les Celtiques dans l'espace
-Raitaru,AID-9T - spot
-Raitaru,BNX-AS - Candle Factory
-Raitaru,BNX-AS - Zanuda's Den
-Raitaru,D-IZT9 - Nano Research Facility
-Raitaru,D-IZT9 - the Workshop
-Raitaru,F9-FUV - mining pearl
-Raitaru,L-ZJLN - Lugus Workshop
-Raitaru,MF-PGF - Zzzz
 Raitaru,R-6KYM - Heureka
 Raitaru,R-6KYM - Horchposten
 Raitaru,R-6KYM - Zu Guttenberg
