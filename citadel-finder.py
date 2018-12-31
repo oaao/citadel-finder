@@ -33,7 +33,6 @@ def citadel_filter(cit_input):
 def get_config():
 
     RANGE_URL  = 'http://evemaps.dotlan.net/range/{},5/{}'
-
     RANGE_CASE = {
                     '6': 'Nyx',
                     '7': 'Archon'
